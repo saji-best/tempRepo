@@ -1,0 +1,3 @@
+Sync conflicts
+
+Please resolve all conflicted files, commit, then try syncing again.

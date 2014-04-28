@@ -1,3 +1,7 @@
 TEST
 Add text
+<<<<<<< HEAD
 #2 Add text
+=======
+ノートPCから追加
+>>>>>>> 9a584dc1b80350ca8cdca3fff2f1d5ef64a9462e
