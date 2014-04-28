@@ -1,0 +1,4 @@
+Sync failed
+
+Some of your uncommitted changes would be overwritten by syncing.
+Please commit your changes then try syncing again.
