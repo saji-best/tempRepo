@@ -1,0 +1,5 @@
+Failed to publish this branch
+
+A branch must have at least one commit before it can be publoshed.
+Try committing your changes first before publishing the branch.
+
